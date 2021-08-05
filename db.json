@@ -1,0 +1,47 @@
+{
+    "brokers":[
+        {
+            "brokerId": "123",
+            "brokerName":"Batman",
+            "status":"active"
+        },
+        {
+            "brokerId": "112",
+            "brokerName":"Superman",
+            "status":"active"
+        },
+        {
+            "brokerId": "102",
+            "brokerName":"Captain America",
+            "status":"Inactive"
+        },
+        {
+            "brokerId": "129",
+            "brokerName":"Wonder Woman",
+            "status":"Inactive"
+        },
+        {
+            "brokerId": "149",
+            "brokerName":"Green Lantern",
+            "status":"active"
+        },
+        {
+            "brokerId": "120",
+            "brokerName":"Martian",
+            "status":"active"
+        },
+        {
+            "brokerId": "103",
+            "brokerName":"Cat Woman",
+            "status":"Inactive"
+        },
+        {
+            "brokerId": "178",
+            "brokerName":"Posion Ivy",
+            "status":"active"
+        }
+
+    ]
+
+
+}
